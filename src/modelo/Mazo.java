@@ -16,7 +16,7 @@ import excepciones.NoHayMasCartasException;
  */
 public class Mazo {
 
-	protected List<Carta> cartas;
+	public List<Carta> cartas;
 
 	/**
 	  Constructor que inicializa el mazo con todas las cartas de los cuatro palos (TREBOl, DIAMANTE, CORAZONES, PICAS).
